@@ -1,1 +1,2 @@
-# snake
+## Learning C#
+### First game
