@@ -1,0 +1,4 @@
+C:\Users\Liudas\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Liudas\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Liudas\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\mySnake.csproj.GenerateResource.Cache
+C:\Users\Liudas\Documents\Visual Studio 2012\Projects\Snake\Snake\obj\Debug\Snake.exe
