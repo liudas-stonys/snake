@@ -1,2 +1,2 @@
 # C# learning project
-Classic snake game
+Classic snake game.
