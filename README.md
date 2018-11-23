@@ -1,2 +1,2 @@
-## Learning C#
-### First game
+# C# learning project
+Classic snake game
